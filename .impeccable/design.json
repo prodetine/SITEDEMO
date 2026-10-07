@@ -245,13 +245,6 @@
       "css": ".ds-panel{background:var(--surface,#111b28);border-top:1px solid #5e4c2c;padding:40px 32px;color:var(--text,#f5f3ec)}.ds-statement{font:800 clamp(20px,2.25vw,32px)/1.4 Switzer,Inter,sans-serif;letter-spacing:-.025em}.ds-panel-caption{margin-top:55px;border-top:1px solid var(--line,#293442);padding-top:24px;color:var(--muted,#b7c0ce);font:12px Inter,sans-serif}"
     },
     {
-      "name": "Device Switch",
-      "kind": "custom",
-      "description": "Pressed-state controls for the browser specimen.",
-      "html": "<div class=\"ds-switch\"><button aria-pressed=\"true\">Desktop</button><button aria-pressed=\"false\">Phone</button></div>",
-      "css": ".ds-switch{display:flex;gap:4px}.ds-switch button{font:12px Inter,sans-serif;min-height:42px;padding:7px 13px;color:var(--muted,#b7c0ce);background:transparent;border:1px solid var(--line,#293442);border-radius:3px;cursor:pointer}.ds-switch button[aria-pressed=true]{color:var(--gold,#efba4d);border-color:#8e703b;background:#231e16}.ds-switch button:hover{border-color:#8e703b}.ds-primary:focus-visible,.ds-secondary:focus-visible,.ds-field:focus-visible,.ds-nav a:focus-visible,.ds-switch button:focus-visible,.ds-service a:focus-visible{outline:3px solid var(--gold,#efba4d);outline-offset:5px}"
-    },
-    {
       "name": "Service Row",
       "kind": "custom",
       "description": "Ruled service list with an SVG action.",
@@ -276,12 +269,12 @@
       },
       {
         "name": "The Two Voices Rule",
-        "body": "Use heavy uppercase Switzer for statements and readable Inter for explanations. The embedded architecture concept has its own Georgia identity and does not redefine the studio type system.",
+        "body": "Use heavy uppercase Switzer for statements and readable Inter for explanations.",
         "section": "typography"
       },
       {
         "name": "The Flat Surface Rule",
-        "body": "Use tonal layering and borders for studio containers; keep illustrative depth local to the embedded concept.",
+        "body": "Use tonal layering and borders for studio containers.",
         "section": "elevation"
       }
     ],
@@ -292,7 +285,6 @@
       "Do place project metadata beneath its title."
     ],
     "donts": [
-      "Don't promote the embedded architecture concept's palette or serif typography into studio primitives.",
       "Don't add general container shadows to this flat system.",
       "Don't replace SVG action arrows with text glyphs."
     ]

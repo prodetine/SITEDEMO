@@ -16,7 +16,7 @@ Set a public email address or Telegram username in `config.js`. The form prepare
 Until a contact is configured, the page explicitly reports preview mode and offers a copyable brief. No call booking or price is shown. Prices, scope and schedule are discussed in writing.
 
 ## Content truth
-3 years and 50+ delivered projects were explicitly confirmed by the owner. Cheapassbikes, Utica Creative Reuse, Social Fabric and The James Brand are owner-supplied real cases. Descriptions do not invent a specific project role or measured results. Northline is labelled as an illustrative design concept; it is not a client or testimonial. FORGE is a working name, with trademark/domain checks not performed.
+3 years and 50+ delivered projects were explicitly confirmed by the owner. Cheapassbikes, Utica Creative Reuse, Social Fabric and The James Brand are owner-supplied real cases. Descriptions do not invent a specific project role or measured results. FORGE is a working name, with trademark/domain checks not performed.
 
 ## Before publishing
 Replace the working name if needed, complete operator details in the privacy notice, and update `robots.txt`. The site is published with GitHub Pages from `main` at https://prodetine.github.io/SITEDEMO/. Third-party commercial terms and timelines are agreed per project.
@@ -25,4 +25,4 @@ Replace the working name if needed, complete operator details in the privacy not
 Source repository: https://github.com/prodetine/SITEDEMO. Its previous website was replaced with FORGE at the owner's request; earlier versions remain in Git history.
 
 ## Assets
-Switzer inherited from the reference project and distributed by Fontshare under its font licence. Inter Variable is self-hosted from https://rsms.me/inter/font-files/InterVariable.woff2 and includes Cyrillic; its OFL licence is included. Chinese uses the device's available Chinese fonts. Portfolio images are screenshots of the four public websites supplied by the owner; source URLs and capture information are stored alongside them. Northline’s preview is live HTML/CSS geometry, not third-party photography.
+Switzer inherited from the reference project and distributed by Fontshare under its font licence. Inter Variable is self-hosted from https://rsms.me/inter/font-files/InterVariable.woff2 and includes Cyrillic; its OFL licence is included. Chinese uses the device's available Chinese fonts. Portfolio images are screenshots of the four public websites supplied by the owner; source URLs and capture information are stored alongside them.

@@ -47,7 +47,6 @@ typography:
 rounded:
   control: "3px"
   form: "4px"
-  specimen: "5px"
 spacing:
   compact-gap: "18px"
   panel-mobile: "28px"
@@ -126,19 +125,19 @@ Switzer supplies dense, weighty uppercase headlines with tight tracking. Inter c
 
 At the mobile breakpoint, display type becomes `clamp(30px, 7.2vw, 49px)` with (1.07) line height, and headlines become `clamp(28px, 6.5vw, 40px)`. Body copy in individual components ranges from (12px) utility text to (20px) emphasized copy. FAQ answers cap at (65ch).
 
-**The Two Voices Rule.** Use heavy uppercase Switzer for statements and readable Inter for explanations. The embedded architecture concept has its own Georgia identity and does not redefine the studio type system.
+**The Two Voices Rule.** Use heavy uppercase Switzer for statements and readable Inter for explanations.
 
 ## Layout
 
 The main container caps at (1160px), with (32px) gutters on each side. At (760px) and below, gutters become (20px), sections use the mobile spacing primitive, and split sections, project features and three-column process layouts stack. The intermediate (1000px) breakpoint tightens gaps and hides the header CTA. Hero top spacing increases at (1600px).
 
-Desktop split layouts use unequal columns and generous gaps, commonly (85px). Services use ruled rows rather than isolated cards. The proof strip retains three columns on mobile. The inline browser concept switches between desktop and phone layouts; its frame caps at (940px) and the phone width becomes (310px), or up to (280px) on mobile.
+Desktop split layouts use unequal columns and generous gaps, commonly (85px). Services use ruled rows rather than isolated cards. The proof strip retains three columns on mobile.
 
 ## Elevation & Depth
 
-The studio interface is flat. Navy tonal shifts and fine rules distinguish sections and containers; the final browser frame has no shadow. A soft shadow inside the architecture illustration belongs to that concept's drawn buildings, not the studio component vocabulary. Hero arrival uses a short upward movement and blur; primary buttons rise slightly on hover. Reduced-motion preferences disable animations and transitions and restore automatic scrolling.
+The studio interface is flat. Navy tonal shifts and fine rules distinguish sections and containers. Hero arrival uses a short upward movement and blur; primary buttons rise slightly on hover. Reduced-motion preferences disable animations and transitions and restore automatic scrolling.
 
-**The Flat Surface Rule.** Use tonal layering and borders for studio containers; keep illustrative depth local to the embedded concept.
+**The Flat Surface Rule.** Use tonal layering and borders for studio containers.
 
 ## Shapes
 
@@ -162,10 +161,6 @@ Dark inset fields use a muted slate stroke (`#465365`), Inter at (14px), and the
 
 Desktop navigation uses Inter at (13px), weight (600), with gold hover. Mobile navigation expands as a full-width vertical list beneath the brand through a bordered menu toggle. A fixed mobile CTA provides access to the brief; a skip link becomes visible on focus.
 
-### Device Switch
-
-Two small outlined buttons indicate desktop or phone mode using `aria-pressed`. Selected state adds gold text, a warm border and dark amber fill. The final frame changes width without animated resizing.
-
 ## Do's and Don'ts
 
 ### Do:
@@ -177,6 +172,5 @@ Two small outlined buttons indicate desktop or phone mode using `aria-pressed`. 
 
 ### Don't:
 
-- **Don't** promote the embedded architecture concept's palette or serif typography into studio primitives.
 - **Don't** add general container shadows to this flat system.
 - **Don't** replace SVG action arrows with text glyphs.

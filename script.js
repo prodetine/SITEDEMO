@@ -20,10 +20,6 @@
   const closeMenu = () => { menu?.setAttribute('aria-expanded', 'false'); setMenuText(); nav?.classList.remove('is-open'); };
   nav?.addEventListener('click', event => { if (event.target.closest('a')) closeMenu(); });
   document.addEventListener('keydown', event => { if (event.key === 'Escape' && menu?.getAttribute('aria-expanded') === 'true') { closeMenu(); menu.focus(); } });
-  document.querySelectorAll('[data-device]').forEach(button => button.addEventListener('click', () => {
-    document.querySelectorAll('[data-device]').forEach(item => item.setAttribute('aria-pressed', String(item === button)));
-    document.querySelector('#website-preview').classList.toggle('is-mobile', button.dataset.device === 'mobile');
-  }));
   document.querySelectorAll('[data-service]').forEach(link => link.addEventListener('click', () => { form.elements.service.value = link.dataset.service; }));
   document.querySelectorAll('[data-year]').forEach(item => { item.textContent = new Date().getFullYear(); });
   const validate = () => {
