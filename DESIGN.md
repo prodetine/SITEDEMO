@@ -86,7 +86,7 @@ components:
 
 **Creative North Star: "The Gold Standard Workshop"**
 
-A dark, confident studio identity built from heavy uppercase statements, warm gold emphasis and restrained navy layers. The established visual direction adapts the user's banipremium and TRW references to FORGE's own website services.
+A dark, confident studio identity built from heavy uppercase statements, warm gold emphasis and restrained navy layers. The established visual direction adapts the user's original visual references to FORGE's own website services.
 
 Generous section spacing lets assertive headlines lead; compact supporting text and thin rules keep the long page orderly. Components feel firm and precise, with small corners and little decorative depth.
 
