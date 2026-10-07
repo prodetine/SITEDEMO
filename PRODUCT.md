@@ -7,6 +7,8 @@ web
 ## Stack
 Confirmed: plain HTML/CSS/JavaScript, built directly in code. No build tools or paid runtime dependencies.
 
+The interface and privacy notice support English, Russian, German, Dutch, Finnish, Simplified Chinese, French, Italian, Spanish and Portuguese. A header selector changes language and stores only that preference; project fields remain local and are preserved during switching.
+
 ## Users
 Business owners from any country and any industry looking to commission a website. The studio prefers written communication and does not require calls.
 
