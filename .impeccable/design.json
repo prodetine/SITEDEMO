@@ -1,0 +1,300 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-10-07T10:47:15.102Z",
+  "title": "Design System: FORGE Web Studio",
+  "extensions": {
+    "colorMeta": {
+      "primary": {
+        "role": "primary",
+        "displayName": "Workshop Gold",
+        "tonalRamp": [
+          "oklch(15% 0.1378 82.5)",
+          "oklch(26% 0.1378 82.5)",
+          "oklch(38% 0.1378 82.5)",
+          "oklch(49% 0.1378 82.5)",
+          "oklch(61% 0.1378 82.5)",
+          "oklch(72% 0.1378 82.5)",
+          "oklch(84% 0.1378 82.5)",
+          "oklch(95% 0.1378 82.5)"
+        ]
+      },
+      "amber": {
+        "role": "primary",
+        "displayName": "Burnished Amber",
+        "tonalRamp": [
+          "oklch(15% 0.0532 77.8)",
+          "oklch(26% 0.0532 77.8)",
+          "oklch(38% 0.0532 77.8)",
+          "oklch(49% 0.0532 77.8)",
+          "oklch(61% 0.0532 77.8)",
+          "oklch(72% 0.0532 77.8)",
+          "oklch(84% 0.0532 77.8)",
+          "oklch(95% 0.0532 77.8)"
+        ]
+      },
+      "amber-hover": {
+        "role": "primary",
+        "displayName": "Amber Hover",
+        "tonalRamp": [
+          "oklch(15% 0.0736 81.6)",
+          "oklch(26% 0.0736 81.6)",
+          "oklch(38% 0.0736 81.6)",
+          "oklch(49% 0.0736 81.6)",
+          "oklch(61% 0.0736 81.6)",
+          "oklch(72% 0.0736 81.6)",
+          "oklch(84% 0.0736 81.6)",
+          "oklch(95% 0.0736 81.6)"
+        ]
+      },
+      "bg": {
+        "role": "neutral",
+        "displayName": "Midnight Navy",
+        "tonalRamp": [
+          "oklch(15% 0.0224 254.1)",
+          "oklch(26% 0.0224 254.1)",
+          "oklch(38% 0.0224 254.1)",
+          "oklch(49% 0.0224 254.1)",
+          "oklch(61% 0.0224 254.1)",
+          "oklch(72% 0.0224 254.1)",
+          "oklch(84% 0.0224 254.1)",
+          "oklch(95% 0.0224 254.1)"
+        ]
+      },
+      "band": {
+        "role": "neutral",
+        "displayName": "Deep Navy Band",
+        "tonalRamp": [
+          "oklch(15% 0.0281 255.9)",
+          "oklch(26% 0.0281 255.9)",
+          "oklch(38% 0.0281 255.9)",
+          "oklch(49% 0.0281 255.9)",
+          "oklch(61% 0.0281 255.9)",
+          "oklch(72% 0.0281 255.9)",
+          "oklch(84% 0.0281 255.9)",
+          "oklch(95% 0.0281 255.9)"
+        ]
+      },
+      "surface": {
+        "role": "neutral",
+        "displayName": "Slate Navy Surface",
+        "tonalRamp": [
+          "oklch(15% 0.0296 255.3)",
+          "oklch(26% 0.0296 255.3)",
+          "oklch(38% 0.0296 255.3)",
+          "oklch(49% 0.0296 255.3)",
+          "oklch(61% 0.0296 255.3)",
+          "oklch(72% 0.0296 255.3)",
+          "oklch(84% 0.0296 255.3)",
+          "oklch(95% 0.0296 255.3)"
+        ]
+      },
+      "text": {
+        "role": "neutral",
+        "displayName": "Warm Chalk",
+        "tonalRamp": [
+          "oklch(15% 0.0095 93.6)",
+          "oklch(26% 0.0095 93.6)",
+          "oklch(38% 0.0095 93.6)",
+          "oklch(49% 0.0095 93.6)",
+          "oklch(61% 0.0095 93.6)",
+          "oklch(72% 0.0095 93.6)",
+          "oklch(84% 0.0095 93.6)",
+          "oklch(95% 0.0095 93.6)"
+        ]
+      },
+      "muted": {
+        "role": "neutral",
+        "displayName": "Mist Slate",
+        "tonalRamp": [
+          "oklch(15% 0.0221 259.2)",
+          "oklch(26% 0.0221 259.2)",
+          "oklch(38% 0.0221 259.2)",
+          "oklch(49% 0.0221 259.2)",
+          "oklch(61% 0.0221 259.2)",
+          "oklch(72% 0.0221 259.2)",
+          "oklch(84% 0.0221 259.2)",
+          "oklch(95% 0.0221 259.2)"
+        ]
+      },
+      "line": {
+        "role": "neutral",
+        "displayName": "Slate Rule",
+        "tonalRamp": [
+          "oklch(15% 0.0292 254.7)",
+          "oklch(26% 0.0292 254.7)",
+          "oklch(38% 0.0292 254.7)",
+          "oklch(49% 0.0292 254.7)",
+          "oklch(61% 0.0292 254.7)",
+          "oklch(72% 0.0292 254.7)",
+          "oklch(84% 0.0292 254.7)",
+          "oklch(95% 0.0292 254.7)"
+        ]
+      },
+      "button-text": {
+        "role": "neutral",
+        "displayName": "Button White",
+        "tonalRamp": [
+          "oklch(15% 0.0000 89.9)",
+          "oklch(26% 0.0000 89.9)",
+          "oklch(38% 0.0000 89.9)",
+          "oklch(49% 0.0000 89.9)",
+          "oklch(61% 0.0000 89.9)",
+          "oklch(72% 0.0000 89.9)",
+          "oklch(84% 0.0000 89.9)",
+          "oklch(95% 0.0000 89.9)"
+        ]
+      }
+    },
+    "typographyMeta": {
+      "display": {
+        "displayName": "Display",
+        "purpose": "Uppercase hero statements."
+      },
+      "headline": {
+        "displayName": "Headline",
+        "purpose": "Section statements."
+      },
+      "title": {
+        "displayName": "Title",
+        "purpose": "Component titles with local size adjustments."
+      },
+      "body": {
+        "displayName": "Body",
+        "purpose": "Readable explanations."
+      },
+      "label": {
+        "displayName": "Label",
+        "purpose": "Form labels and compact utility text."
+      },
+      "button": {
+        "displayName": "Button",
+        "purpose": "Primary action labels."
+      }
+    },
+    "shadows": [],
+    "motion": [
+      {
+        "name": "ease",
+        "value": "cubic-bezier(.16,1,.3,1)",
+        "purpose": "Hero arrival and primary action transitions."
+      },
+      {
+        "name": "button-transition",
+        "value": "0.2s",
+        "purpose": "Background and hover movement."
+      },
+      {
+        "name": "hero-arrival",
+        "value": "0.85s",
+        "purpose": "12px upward arrival with 2px initial blur; disabled for reduced motion."
+      }
+    ],
+    "breakpoints": [
+      {
+        "name": "wide",
+        "value": "1600px"
+      },
+      {
+        "name": "compact",
+        "value": "1000px"
+      },
+      {
+        "name": "mobile",
+        "value": "760px"
+      }
+    ]
+  },
+  "components": [
+    {
+      "name": "Primary Button",
+      "kind": "button",
+      "refersTo": "button-primary",
+      "description": "Bold gold-outlined action.",
+      "html": "<button class=\"ds-primary\">START YOUR PROJECT <svg viewBox=\"0 0 24 24\" width=\"18\" height=\"18\" fill=\"none\" aria-hidden=\"true\"><path d=\"M5 19 19 5M5 5h14v14\" stroke=\"currentColor\" stroke-width=\"1.7\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg></button>",
+      "css": ".ds-primary{display:inline-flex;align-items:center;justify-content:center;gap:25px;padding:19px 29px;min-height:64px;background:var(--amber,#4a3718);color:white;border:2px solid var(--gold,#efba4d);border-radius:3px;font:800 17px/1.4 Inter,sans-serif;cursor:pointer;transition:background .2s cubic-bezier(.16,1,.3,1),transform .2s cubic-bezier(.16,1,.3,1)}.ds-primary:hover{background:#69501f;transform:translateY(-2px)}.ds-primary:active{transform:none}.ds-primary:disabled{opacity:.6;cursor:wait}.ds-primary:focus-visible,.ds-secondary:focus-visible,.ds-field:focus-visible,.ds-nav a:focus-visible,.ds-switch button:focus-visible,.ds-service a:focus-visible{outline:3px solid var(--gold,#efba4d);outline-offset:5px}@media(prefers-reduced-motion:reduce){.ds-primary{transition:none}}"
+    },
+    {
+      "name": "Secondary Button",
+      "kind": "button",
+      "refersTo": "button-secondary",
+      "description": "Quiet utility action for prepared briefs.",
+      "html": "<button class=\"ds-secondary\">Copy brief</button>",
+      "css": ".ds-secondary{display:inline-block;background:transparent;color:var(--gold,#efba4d);font:12px Inter,sans-serif;padding:10px 15px;border:1px solid #8a6b32;border-radius:3px;cursor:pointer}.ds-secondary:hover{background:var(--amber,#4a3718)}.ds-secondary:active{background:var(--amber,#4a3718)}.ds-primary:focus-visible,.ds-secondary:focus-visible,.ds-field:focus-visible,.ds-nav a:focus-visible,.ds-switch button:focus-visible,.ds-service a:focus-visible{outline:3px solid var(--gold,#efba4d);outline-offset:5px}"
+    },
+    {
+      "name": "Text Field",
+      "kind": "input",
+      "refersTo": "input",
+      "description": "Dark inset field with a visible label.",
+      "html": "<label class=\"ds-label\">Your name<input class=\"ds-field\" autocomplete=\"name\" placeholder=\"Alex\"></label>",
+      "css": ".ds-label{display:block;color:var(--text,#f5f3ec);font:550 12px Inter,sans-serif}.ds-field{display:block;width:100%;margin-top:7px;padding:12px 13px;border:1px solid #465365;border-radius:3px;background:var(--bg,#070e17);color:var(--text,#f5f3ec);font:14px/1.55 Inter,sans-serif;caret-color:var(--gold,#efba4d)}.ds-field::placeholder{color:#a3afbf;opacity:1}.ds-primary:focus-visible,.ds-secondary:focus-visible,.ds-field:focus-visible,.ds-nav a:focus-visible,.ds-switch button:focus-visible,.ds-service a:focus-visible{outline:3px solid var(--gold,#efba4d);outline-offset:5px}"
+    },
+    {
+      "name": "Navigation",
+      "kind": "nav",
+      "description": "Simple horizontal studio links.",
+      "html": "<nav class=\"ds-nav\" aria-label=\"Studio\"><a href=\"#services\">Services</a><a href=\"#work\">Work</a><a href=\"#process\">Process</a></nav>",
+      "css": ".ds-nav{display:flex;gap:27px;font:600 13px Inter,sans-serif}.ds-nav a{color:var(--text,#f5f3ec);text-decoration:none}.ds-nav a:hover{color:var(--gold,#efba4d)}.ds-primary:focus-visible,.ds-secondary:focus-visible,.ds-field:focus-visible,.ds-nav a:focus-visible,.ds-switch button:focus-visible,.ds-service a:focus-visible{outline:3px solid var(--gold,#efba4d);outline-offset:5px}"
+    },
+    {
+      "name": "Statement Panel",
+      "kind": "card",
+      "refersTo": "card",
+      "description": "Flat navy panel with a warm structural rule.",
+      "html": "<div class=\"ds-panel\"><div class=\"ds-statement\">YOUR BUSINESS.<br>YOUR WEBSITE.<br>YOUR NEXT CHAPTER.</div><div class=\"ds-panel-caption\">Built with purpose.</div></div>",
+      "css": ".ds-panel{background:var(--surface,#111b28);border-top:1px solid #5e4c2c;padding:40px 32px;color:var(--text,#f5f3ec)}.ds-statement{font:800 clamp(20px,2.25vw,32px)/1.4 Switzer,Inter,sans-serif;letter-spacing:-.025em}.ds-panel-caption{margin-top:55px;border-top:1px solid var(--line,#293442);padding-top:24px;color:var(--muted,#b7c0ce);font:12px Inter,sans-serif}"
+    },
+    {
+      "name": "Device Switch",
+      "kind": "custom",
+      "description": "Pressed-state controls for the browser specimen.",
+      "html": "<div class=\"ds-switch\"><button aria-pressed=\"true\">Desktop</button><button aria-pressed=\"false\">Phone</button></div>",
+      "css": ".ds-switch{display:flex;gap:4px}.ds-switch button{font:12px Inter,sans-serif;min-height:42px;padding:7px 13px;color:var(--muted,#b7c0ce);background:transparent;border:1px solid var(--line,#293442);border-radius:3px;cursor:pointer}.ds-switch button[aria-pressed=true]{color:var(--gold,#efba4d);border-color:#8e703b;background:#231e16}.ds-switch button:hover{border-color:#8e703b}.ds-primary:focus-visible,.ds-secondary:focus-visible,.ds-field:focus-visible,.ds-nav a:focus-visible,.ds-switch button:focus-visible,.ds-service a:focus-visible{outline:3px solid var(--gold,#efba4d);outline-offset:5px}"
+    },
+    {
+      "name": "Service Row",
+      "kind": "custom",
+      "description": "Ruled service list with an SVG action.",
+      "html": "<article class=\"ds-service\"><h3>LANDING PAGES</h3><p>One offer. One focused journey.</p><a href=\"#start\" aria-label=\"Discuss a landing page\"><svg viewBox=\"0 0 24 24\" width=\"18\" height=\"18\" fill=\"none\" aria-hidden=\"true\"><path d=\"M5 19 19 5M5 5h14v14\" stroke=\"currentColor\" stroke-width=\"1.7\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg></a></article>",
+      "css": ".ds-service{display:grid;grid-template-columns:1fr 1.4fr 44px;gap:40px;border-block:1px solid var(--line,#293442);padding:32px 0;color:var(--text,#f5f3ec)}.ds-service h3{margin:5px 0 0;font:800 24px/1.08 Switzer,Inter,sans-serif;letter-spacing:-.025em}.ds-service p{margin:0;color:var(--muted,#b7c0ce);font:15px/1.7 Inter,sans-serif}.ds-service a{width:44px;height:44px;display:flex;align-items:center;justify-content:center;color:var(--gold,#efba4d);border:1px solid #705a34;border-radius:3px}.ds-service a:hover{background:var(--amber,#4a3718)}.ds-primary:focus-visible,.ds-secondary:focus-visible,.ds-field:focus-visible,.ds-nav a:focus-visible,.ds-switch button:focus-visible,.ds-service a:focus-visible{outline:3px solid var(--gold,#efba4d);outline-offset:5px}"
+    }
+  ],
+  "narrative": {
+    "northStar": "The Gold Standard Workshop",
+    "overview": "A dark, confident studio identity built from heavy uppercase statements, warm gold emphasis and restrained navy layers. The established visual direction adapts the user's banipremium and TRW references to FORGE's own website services.\n\nGenerous section spacing lets assertive headlines lead; compact supporting text and thin rules keep the long page orderly. Components feel firm and precise, with small corners and little decorative depth.",
+    "keyCharacteristics": [
+      "Deep navy fields with warm gold signals.",
+      "Heavy uppercase display type with readable Inter copy.",
+      "Flat surfaces, thin dividers and small corners.",
+      "Consistent inline SVG arrows and visible keyboard focus."
+    ],
+    "rules": [
+      {
+        "name": "The Gold Signal Rule",
+        "body": "Reserve gold for emphasis and action; retain navy as the dominant field.",
+        "section": "colors"
+      },
+      {
+        "name": "The Two Voices Rule",
+        "body": "Use heavy uppercase Switzer for statements and readable Inter for explanations. The embedded architecture concept has its own Georgia identity and does not redefine the studio type system.",
+        "section": "typography"
+      },
+      {
+        "name": "The Flat Surface Rule",
+        "body": "Use tonal layering and borders for studio containers; keep illustrative depth local to the embedded concept.",
+        "section": "elevation"
+      }
+    ],
+    "dos": [
+      "Do preserve the navy/gold hierarchy and uppercase display voice.",
+      "Do use consistent inline SVG arrows for action cues.",
+      "Do keep keyboard focus visible and honor reduced motion.",
+      "Do place project metadata beneath its title."
+    ],
+    "donts": [
+      "Don't promote the embedded architecture concept's palette or serif typography into studio primitives.",
+      "Don't add general container shadows to this flat system.",
+      "Don't replace SVG action arrows with text glyphs."
+    ]
+  }
+}

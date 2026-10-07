@@ -1,0 +1,6 @@
+.DS_Store
+Thumbs.db
+node_modules/
+.impeccable/review/
+.impeccable/live/
+.impeccable/config.local.json
